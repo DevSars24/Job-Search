@@ -1,29 +1,4 @@
-BHAI 🔥🔥
-**Main tera pura JOB PORTAL project ka professional level ka README bana raha hoon — bilkul interview-ready, GitHub-ready, recruiter-friendly.**
 
-Is README me hoga:
-
-✔️ Project explanation
-✔️ Tech stack
-✔️ Features (Candidate + Recruiter)
-✔️ Complete Folder Structure
-✔️ Supabase architecture explanation
-✔️ Auth Flow (Clerk)
-✔️ Storage Flow (Resumes + Logos)
-✔️ API Layer explanation
-✔️ How to run locally
-✔️ Deployment steps
-✔️ Demo workflow diagrams
-
-**AISA README banunga ki RoadsideCoder bhi bole — “Yeh toh next-level student hai.”**
-
----
-
-# 🚀 **🔥 FINAL README FOR YOUR JOB PORTAL PROJECT**
-
-*Copy this directly into your GitHub README.md file*
-
----
 
 # # 💼 Job Portal – MERN + Supabase + Clerk (Full Stack Project)
 
@@ -325,18 +300,5 @@ This Job Portal demonstrates:
 * Recruiter/candidate dashboard
 * Industry-level folder structure
 
-**Perfect for Resume + Interviews + GitHub Portfolio**
-Bhai tera project already advanced hai —
-Yeh README usko **professional product** bana dega 🔥💯
 
----
-
-## ✨ Want me to generate:
-
-✔️ Project Architecture Diagram
-✔️ ER Diagram
-✔️ API Route Documentation
-✔️ System Design Notes
-
-**Bol de bhai, 2 minute me tayyar.**
 
